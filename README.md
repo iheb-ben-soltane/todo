@@ -19,3 +19,5 @@ voici un lien utile pour la configuration : https://medium.com/@FlutterStudio/a-
 - L'utilisateur peut créer, modifier ou supprimer une tâche.
 - L'utilisateur peut voir les données du compte connecté à l'application et se déconnecter.
 - L'utilisateur peut récupérer son mot de passe en cas d'oubli.
+
+- Vous pouvez consulter la présentation pour plus de détails: https://github.com/iheb-ben-soltane/todo/blob/main/todo_presentation.pdf
