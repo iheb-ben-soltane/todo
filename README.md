@@ -1,16 +1,15 @@
-# to_do
+# TO DO LIST
+Ce projet consiste en une application mobile pour gérer efficacement les tâches ou les réunions à assister.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Présentation du projet
+Un gestionnaire de tâches conçu pour simplifier votre organisation au quotidien. L’application mobile offre une interface intuitive et des fonctionnalités avancées pour vous aider à gérer efficacement vos responsabilités professionnelles et personnelles.
+#Technologies utilisées
+Flutter + Firebase 
+voici un lien utile pour la configuration : https://medium.com/@FlutterStudio/a-complete-guide-to-setting-up-firebase-in-flutter-5bf3c7356dc7
+#Options Implémentées
+- L'utilisateur peut créer un compte ensuite connecter ou bien utiliser son compte Google enregistré sur son appareil.
+- L'utilisateur peut créer une tâche et lui attribuer un statut et une priorité pour une meilleure organisation, ainsi qu'une date.
+- L'utilisateur peut consulter la liste des tâches existantes et les modifier.
+- L'utilisateur peut créer, modifier ou supprimer une tâche.
+- L'utilisateur peut voir les données du compte connecté à l'application et se déconnecter.
+- L'utilisateur peut récupérer son mot de passe en cas d'oubli.
